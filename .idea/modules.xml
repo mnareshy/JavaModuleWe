@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DepandancyModule/DepandancyModule.iml" filepath="$PROJECT_DIR$/DepandancyModule/DepandancyModule.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaModuleWe.iml" filepath="$PROJECT_DIR$/JavaModuleWe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestModule/TestModule.iml" filepath="$PROJECT_DIR$/TestModule/TestModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestQualifiedModule/TestQualifiedModule.iml" filepath="$PROJECT_DIR$/TestQualifiedModule/TestQualifiedModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UtilityModule/UtilityModule.iml" filepath="$PROJECT_DIR$/UtilityModule/UtilityModule.iml" />
     </modules>
   </component>
 </project>

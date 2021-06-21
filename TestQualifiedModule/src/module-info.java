@@ -1,0 +1,4 @@
+module TestQualifiedModule {
+
+    requires UtilityModule;
+}
