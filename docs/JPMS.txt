@@ -53,3 +53,11 @@ javac -d bin -p . --module-source-path . --module JavaSETestModuleOne \\ use --m
  jdeps  --module-path . --list-deps TestModule
 
  java -p . -d UtilityModule
+
+// verbose of module complete details
+ jdeps --module-path . -v -m UtilityModule
+ jdeps --module-path . -verbose -m UtilityModule
+
+// Summary option
+ jdeps -s DepandancyModule
+jdeps -summary DepandancyModule
